@@ -1,4 +1,4 @@
-# Squiz
+# Prajñā
 
 **An interactive quiz platform built with HTML, CSS, JavaScript, and Django to enhance learning through customizable quizzes and real-time performance tracking.**
 
@@ -22,7 +22,7 @@
 
 ## About The Project
 
-Squiz is designed to simplify quiz creation, hosting, and participation for educational and entertainment purposes. The platform provides a user-friendly interface for quiz management, real-time scoring, and performance insights, making it ideal for students, educators, and trivia enthusiasts.
+Prajñā is designed to simplify quiz creation, hosting, and participation for educational and entertainment purposes. The platform provides a user-friendly interface for quiz management, real-time scoring, and performance insights, making it ideal for students, educators, and trivia enthusiasts.
 
 ---
 
@@ -65,13 +65,13 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Prasun-Shiwakoti/Squiz
+   git clone https://github.com/Prasun-Shiwakoti/Prajñā
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Squiz/Backend
+   cd Prajñā/Backend
    ```
 
 3. Install the required Python dependencies:
@@ -108,7 +108,7 @@ After setting up the project:
 - **Host and Participate**: Share quiz links with participants or play quizzes hosted by others.
 - **Track Performance**: Get real-time feedback and analyze quiz results.
 
-For more detailed information on how to use Squiz, refer to the in-app documentation or help section.
+For more detailed information on how to use Prajñā, refer to the in-app documentation or help section.
 
 ---
 
@@ -143,7 +143,7 @@ Commit messages should follow the format `<type>: <description>`, where `type` i
 
 ## Contributing
 
-We encourage contributions from developers who want to enhance Squiz. To contribute:
+We encourage contributions from developers who want to enhance Prajñā. To contribute:
 
 1. Fork the repository.
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
