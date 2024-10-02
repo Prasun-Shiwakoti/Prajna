@@ -59,6 +59,12 @@ Make sure you have the following installed:
   pip install django
   ```
 - **Git**: [Download here](https://git-scm.com)
+- Node.js: [official Node.js website](https://nodejs.org/)
+- npm: npm (Node Package Manager) is included with Node.js. You can check if you have it installed by running the following command in your terminal:
+
+  ```bash
+  node -v
+  npm -v
 
 ### Installation
 
@@ -71,7 +77,7 @@ Make sure you have the following installed:
 2. Navigate to the project directory:
 
    ```bash
-   cd Prajñā/Backend
+   cd Prajna/Backend
    ```
 
 3. Install the required Python dependencies:
@@ -92,11 +98,36 @@ Make sure you have the following installed:
    python manage.py runserver
    ```
 
-7. Open your browser and go to:
 
-   ```
-   http://127.0.0.1:8000
-   ```
+8. Split the terminal or open a new terminal:
+
+   For VS Code: Goto terminal tab on top and select 'Split Terminal' or 'New Terminal'
+
+
+9. Navigate to Frontend directory:
+
+  ```bash
+   cd Prajna/Frontend
+  ```
+
+10. Install all the required dependencies:
+
+    ```bash
+    npm install
+    ```
+
+    
+11. Start the development server:
+
+    ```bash
+    npm run dev
+    ```
+
+12. Open your browser and go to
+
+    ```bash
+    http://localhost:5173
+    ```
 
 ---
 
